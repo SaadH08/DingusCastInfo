@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Gagalin";
+  src: url(fonts/Gagalin-Regular.otf) format('truetype');
+}
+@font-face {
+  font-family: "Sprite";
+  src: url(fonts/Sprite\ Graffiti\ Shadow.otf) format('truetype');
+}
+
+
+
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url(background1.png);
+  background-position: center ;
+}
+#spotify {
+  font-family: "Sprite", sans-serif;
+  font-size: 45px;
+  text-decoration: none;
+}
+
+#youtube {
+  font-family: "Sprite", sans-serif;
+  font-size: 45px;
+  text-decoration: none;
+}
+#smaller {
+  font-size: 35px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+#AboutUs {
+font-size: 42px;
+  font-family: "Sprite", sans-serif;
+  color: black;
+  text-shadow: 2px 2px red;
+
+
+}
+#aboutusinfo {
+  font-family: "Sprite", sans-serif;
+  font-size: 38px;
+  color: black;
+  text-shadow: 1px 1px red;
+ 
+
+ 
+}
+
+
+
+
+
+
+#faqlink {
+font-family: "Sprite", sans-serif;
+  font-size: 45px;
+  text-decoration: none;
+}

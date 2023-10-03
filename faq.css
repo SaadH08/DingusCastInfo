@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Gagalin";
+  src: url(fonts/Gagalin-Regular.otf) format('truetype');
+}
+@font-face {
+  font-family: "Sprite";
+  src: url(fonts/Sprite\ Graffiti\ Shadow.otf) format('truetype');
+}
+html {
+  background-image: url(background1.png);
+  background-position: center;
+}
+
+#faqtitle {
+  color: black;
+  font-family: "Sprite", sans-serif;
+  font-size: 60px;
+} 
+#home {
+  font-family: "Sprite", sans-serif;
+  font-size: 35px;
+}
